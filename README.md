@@ -255,3 +255,5 @@ myEmitter.emit('event');
 
 **Answer:**
 **Buffer** class is a global class and can be accessed in application without importing buffer module. A Buffer is a kind of an array of integers and corresponds to a raw memory allocation outside the V8 heap. A Buffer cannot be resized.
+
+next question
